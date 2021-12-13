@@ -1,4 +1,4 @@
-# Getting Started with Create React App :: lets create another PR
+# Getting Started with Create React App fork goes into main
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
